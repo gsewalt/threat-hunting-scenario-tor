@@ -79,11 +79,6 @@ DeviceFileEvents
 - **Author Contact**: https://www.linkedin.com/in/gregory-sewalt-24942657/
 - **Date**: September 18, 2025
 
-## Validated By:
-- **Reviewer Name**: 
-- **Reviewer Contact**: 
-- **Validation Date**: 
-
 ---
 
 ## Additional Notes:
